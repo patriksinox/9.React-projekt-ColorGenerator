@@ -11,3 +11,6 @@
           JS, values.js a React - useState, useEffect, navigátor.copy a práca s
           forms.
         </p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ddcd1b50-60ef-4457-8d6c-0973685c023a/deploy-status)](https://app.netlify.com/sites/9react-project-colorgen/deploys)
+https://9react-project-colorgen.netlify.app/
